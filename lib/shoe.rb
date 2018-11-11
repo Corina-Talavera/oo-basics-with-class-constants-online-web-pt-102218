@@ -7,7 +7,6 @@ class Shoe
   end
   
   BRANDS = []
-   if !BRANDS.include?(brand)
       BRANDS << brand
     end
 
